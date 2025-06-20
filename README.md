@@ -10,7 +10,7 @@ With a background in Geological Sciences and professional experience in aviation
 AI, UX/Product Design, and Data.
 
 ###Welcome to my digital portfolio showcasing key projects in data analysis, UX research, and AI integration. 
-I’m passionate about building human-centered solutions and using tech to solve real-world problems.
+13|   bio: "UX Researcher • AI Enthusiast • Data Analyst. Hi, I’m Chinonye. I design intuitive digital experiences and solve real-world problems using AI, UX, and data. Welcome to my portfolio.
 
 ###Professional Bio": """
 I'm a passionate and creative Data Analyst and UX Researcher, deeply driven With experience across aviation analytics, UX design, and data annotation for AI, I strive to create meaningful digital solutions that improve lives. I'm a lifelong learner with a love for clean design, structured data, and 
