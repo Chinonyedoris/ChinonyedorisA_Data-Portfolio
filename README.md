@@ -1,5 +1,6 @@
 About me
 UX Researcher • AI Enthusiast • Data Analyst
+![Screenshot 2025-06-09 181718](https://github.com/user-attachments/assets/edec49ce-856e-4b4c-8a57-2935e7fcb3c6)
 
 Hi, I’m Chinonye. I design intuitive digital experiences and solve real-world problems using AI, UX, and data. Welcome to my digital portfolio showcasing key projects in data analysis, UX research, and AI integration.
 
