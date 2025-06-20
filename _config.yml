@@ -1,12 +1,12 @@
 # _config.yml for a portfolio website using Jekyll or similar static site generators
 
 # Site settings
-title: "Your Name"
-description: "A portfolio showcasing my projects, skills, and experience."
+title: My Portfolio
+description: "A data science portfolio"
 url: "https://yourdomain.com"       # the base hostname & protocol for your site
 baseurl: ""                         # the subpath of your site, e.g. /blog
 
-# Author settings
+# Author settings 
 author:
   name: "Chinonye Doris Aniagolu"
   email: "chinonyedorisaniagolu@gmail.com"
