@@ -8,7 +8,13 @@ With a background in Geological Sciences and professional experience in aviation
 
 ###PROJECT Portfolio – Data, Design & Innovation
 AI, UX/Product Design, and Data.
-
+theme: minima
+title: My Portfolio
+description: Example site
+baseurl: /ChinonyedorisA_Data-Portfolio
+url: "https://chinonyedoris.github.io"
+author:
+  name: Chinonyedoris
 ###Welcome to my digital portfolio showcasing key projects in data analysis, UX research, and AI integration. 
 13|   bio: "UX Researcher • AI Enthusiast • Data Analyst. Hi, I’m Chinonye. I design intuitive digital experiences and solve real-world problems using AI, UX, and data. Welcome to my portfolio.
 
