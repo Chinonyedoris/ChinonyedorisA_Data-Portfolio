@@ -26,12 +26,12 @@ crosoft Outlook.
 
  # Trainings & Workshops
 • Harvard University– Artificial Intelligence with Python — Coursework — Training — search al
-gorithms, knowledge representation, neural networks, and reinforcement learning using Python —
- Building intelligent systems and implementing AI concepts.
+  gorithms, knowledge representation, neural networks, and reinforcement learning using Python —
+  Building intelligent systems and implementing AI concepts.
 • AltSchool Africa– School of Data Data Analysis Program — Excel, SQL, Power BI, Python.
 • AWS Cloud Computing Bootcamp– CloudSec Network —Fundamentals of AWS.
 • She Leads Africa Bootcamp — Digital Marketing, Video Editing, and Content Creation — Brand
- Growth.
+  Growth.
 • TechyJauntUI/UXDesignBootcamp—User-CenteredDesign, Wireframing, Prototyping (Figma)figjam.
 • WHXWorld Health Expo (Training Attendee) — Workshops on global health innovation.
 • Propel — Jobberman Soft-Skills Training —Professional communication, teamwork.
