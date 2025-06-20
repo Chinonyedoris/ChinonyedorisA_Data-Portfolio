@@ -1,1 +1,84 @@
+# _config.yml for a portfolio website using Jekyll or similar static site generators
 
+# Site settings
+title: "Your Name"
+description: "A portfolio showcasing my projects, skills, and experience."
+url: "https://yourdomain.com"       # the base hostname & protocol for your site
+baseurl: ""                         # the subpath of your site, e.g. /blog
+
+# Author settings
+author:
+  name: "Chinonye Doris Aniagolu"
+  email: "chinonyedorisaniagolu@gmail.com"
+  bio: "UX Researcher • AI Enthusiast • Data Analyst)"Hi, I’m Chinonye. I design intuitive digital experiences and solve real-world problems using AI, UX, and data. Welcome to my portfolio."."
+  avatar: "/assets/images/avatar.jpg"  # path to your profile image
+
+# Social media links
+social:
+  github: "https://github.com/yourusername"
+  linkedin: "https://linkedin.com/in/yourusername"
+  twitter: "https://twitter.com/yourusername"
+  # Add more as needed
+
+# Navigation links
+nav:
+  - name: "Home"
+    url: "/"
+  - name: "Projects"
+    url: "/projects/"
+  - name: "About"
+    url: "/about/"
+  - name: "Contact"
+    url: "/contact/"
+
+# Build settings
+markdown: kramdown
+theme: minima             # or your preferred Jekyll theme
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  # add other plugins as needed
+
+# Collections (for custom content types)
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+# Defaults for posts and projects
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Your Name"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+      author: "Your Name"
+
+# Exclude files from the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Other optional settings
+permalink: /:categories/:title/
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+# SEO and analytics
+google_analytics: "UA-XXXXXXXX-X"  # Replace with your Google Analytics tracking ID
+
+# Custom variables (add your own as needed)
+skills:
+  - "Python"
+  - "JavaScript"
+  - "HTML/CSS"
+  - "React"
+  - "Node.js"
