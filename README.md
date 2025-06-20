@@ -24,6 +24,69 @@ crosoft Outlook.
  • Design: UI/UX (Figma), Wireframing, Visual Branding
  • Others: SEO Tools (Yoast, SEMrush), Tableau, Adobe Suite, CapCut
 
+ # Trainings & Workshops
+# • Harvard University– Artificial Intelligence with Python — Coursework — Training — search al
+gorithms, knowledge representation, neural networks, and reinforcement learning using Python —
+ Building intelligent systems and implementing AI concepts.
+ # • AltSchool Africa– School of Data Data Analysis Program — Excel, SQL, Power BI, Python.
+#  • AWS Cloud Computing Bootcamp– CloudSec Network —Fundamentals of AWS.
+#  • She Leads Africa Bootcamp — Digital Marketing, Video Editing, and Content Creation — Brand
+ Growth.
+# • TechyJauntUI/UXDesignBootcamp—User-CenteredDesign, Wireframing, Prototyping (Figma)figjam.
+# • WHXWorld Health Expo (Training Attendee) — Workshops on global health innovation.
+# • Propel — Jobberman Soft-Skills Training —Professional communication, teamwork.
+# • HNG11 Internship Training Institute — Data Analyst Intern.
+# • ALX Virtual Assistant Training Program.
+
+# New Project Track Data Analysis
+# "Visualizing Nigeria’s GDP Journey (1993–2025): A Business Intelligence and Data Analytics Perspective"
+
+# Project Introduction / Preamble
+So, I decided to embark on a personal data analytical project to draw out deep insights from Nigeria’s Gross Domestic Product (GDP) trends. This project spans from 1993 to 2025, a critical period post-independence reflecting Nigeria’s evolving economic framework, government reforms, and international positioning.
+
+I will be imploring the use of Power BI and other advanced data analytical skills—including Excel, Python, and statistical methods—to carry out this research. The aim is not just to analyze GDP growth and decline, but to understand:
+
+When and why the Nigerian economy grew significantly
+
+What investments or policies contributed to such growth
+
+What caused declines, stagnation, or economic slowdowns
+
+How these trends inform scalable growth opportunities for Nigeria’s future
+
+This project is a blend of research, business intelligence, and economic storytelling, grounded in data. I’ll be using:
+
+Power BI dashboards for dynamic visualization
+
+Time-series and regression analysis for modeling trends
+
+Correlation and inferential tools to tie macroeconomic events to outcomes
+
+# Invitation to Join the Journey
+I invite you to join me on this exciting research and business intelligence journey into Nigeria’s GDP. Whether you are a data analyst, economist, policymaker, or simply curious about Nigeria’s economic development—this project is for you.
+
+Stay tuned as we uncover hidden insights, spot economic patterns, and bring data to life in the Nigerian context.
+
+# Open Source Contributions & Projects
+ • Firebase Installation Integration with Node.js — Node.js, Firebase CLI, Firebase Hosting, Firebase
+ Firestore, Firebase Auth, Git, VS Code.
+ • UI/UX + Frontend Development — Co-designed the user interface and developed the frontend of a
+ multi-format publishing platform using Figma, HTML, CSS, React,Node.js, JavaScript, and Firebase.
+ • GitHub Collaborator– Fixed bugs, wrote README.md docs, and participated in open-source issue
+ discussions.
+ • COVID-19 Record Reformatting– Converted 200+ medical PDFs to editable formats, ensuring data
+ consistency.
+ • Recruitment Campaign Automation– Created job listing templates and ad visuals for talent sourcing.
+ 
+# Certifications
+ • Python 101 for Data Science– IBM, 2025
+ • UI/UX Design– TechyJaunt, 2025
+ • AWS Cloud Computing– CSN, 2025
+ • AI Career Essentials– ALX, 2024
+ • Virtual Assistant Training– ALX, 2024
+ • Customer Experience & Data Analytics– HP Life, 2024–2025
+ > DataTrends Changing The Role of HR- UniATHENA, 2024
+
 # Work Experience
 
 #  Nigerian Airspace Management Agency
