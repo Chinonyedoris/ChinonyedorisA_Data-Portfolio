@@ -16,15 +16,15 @@ building community-centered platforms.
 
 # Technical Skills
  • Languages & Frameworks: HTML, CSS, JavaScript, Python, SQL, React (learning), firebase,
- Node.js (learning)
+   Node.js (learning)
  • Tools & Libraries: Git, GitHub, Figma, Pandas, NumPy, Canva, CapCut, Power BI
  • Databases & Data Tools: Excel (Advanced), SQL, Google Sheets, Power BI
  • Collaboration & Project Management: Trello, Notion, Slack, Zoom, Google Workspace, Mi
-crosoft Outlook.
+   crosoft Outlook.
  • Design: UI/UX (Figma), Wireframing, Visual Branding
  • Others: SEO Tools (Yoast, SEMrush), Tableau, Adobe Suite, CapCut
 
- # Trainings & Workshops
+# Trainings & Workshops
 • Harvard University– Artificial Intelligence with Python — Coursework — Training — search al
   gorithms, knowledge representation, neural networks, and reinforcement learning using Python —
   Building intelligent systems and implementing AI concepts.
