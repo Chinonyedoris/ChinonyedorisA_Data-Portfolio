@@ -1,21 +1,32 @@
 About me
 UX Researcher • AI Enthusiast • Data Analyst
-Hi, I’m Chinonye. I design intuitive digital experiences and solve real-world problems using AI, UX, and data. Welcome to my portfolio."
+
+Hi, I’m Chinonye. I design intuitive digital experiences and solve real-world problems using AI, UX, and data. Welcome to my digital portfolio showcasing key projects in data analysis, UX research, and AI integration.
+
+bio:
+"UX Researcher • AI Enthusiast • Data Analyst. Hi, I’m Chinonye. I design intuitive digital experiences and solve real-world problems using AI, UX, and data. ."
 With a background in Geological Sciences and professional experience in aviation data and administration, I bring a unique lens to technology—merging logic, research, and design to solve global problems.
 
-PROJECT Portfolio – Data, Design & Innovation
-bio: "AI, UX/Product Design, and Data."
-
-Welcome to my digital portfolio showcasing key projects in data analysis, UX research, and AI integration.
-bio: "UX Researcher • AI Enthusiast • Data Analyst. Hi, I’m Chinonye. I design intuitive digital experiences and solve real-world problems using AI, UX, and data. 
+PROJECT Portfolio – 
+Data, Design & Innovation
+AI, UX/Product Design, and Data."
 
 Welcome to my portfolio."
 Professional Bio": """
 I'm a passionate and creative Data Analyst and UX Researcher, deeply driven With experience across aviation analytics, UX design, and data annotation for AI, I strive to create meaningful digital solutions that improve lives. I'm a lifelong learner with a love for clean design, structured data, and 
 building community-centered platforms.
 
-Skills: Data Analysis · SQL · UX Design · Figma · Firebase · GitHub · Research · Creative Writing
-Short Tagline": """
+Skills:
+Data Analysis 
+· SQL 
+· UX Design 
+· Figma 
+· Firebase 
+· GitHub 
+· Research 
+· Creative Writing
+
+Short Tagline
 Data Analyst | UX Researcher & Product Designer | Data & Design
 
 GitHub Projects Overview"
@@ -32,32 +43,40 @@ GitHub Projects Overview"
 ✅ Firebase + GitHub Web Deployment
 ✅ Personal Portfolio Website
 
-###Each project has helped me blend my data, design, and product thinking to solve real-world challenges 🌍.
+Each project has helped me blend my data, design, and product thinking to solve real-world challenges 🌍.
 
-###👩‍💻 My tool stack: Figma, Firebase, GitHub, Excel, SQL, Notion, Python, Google Workspace, and more.
+👩‍💻 My tool stack: 
+Figma, 
+Firebase, 
+GitHub, 
+Excel, 
+SQL, 
+Notion, 
+Python, 
+Google Workspace, and more.
 
-### ✈️ NAMA Data Cleanup & Validation
+✈️ NAMA Data Cleanup & Validation
 - Cleaned and validated aviation data for Nigerian Airspace Management Agency
 - Used Excel and SQL for organizing national reports and maintaining directories
 
-### 📩 Email Filtering Annotation (TransPerfect)
+📩 Email Filtering Annotation (TransPerfect)
 - Annotated thousands of email datasets to help train ML categorization systems
 - Optimized workflow using DataForce platform
 
-### 🧾 COVID-19 Medical Documentation
+🧾 COVID-19 Medical Documentation
 - Converted over 200+ reports from PDF to Word format with structure and accuracy
 - Supported public health archiving initiatives
 
-### 🎨 Creative Hub UX App
+🎨 Creative Hub UX App
 - UX case study: Research, Ideation, Prototyping in Figma
 - Built user-centered solution for creatives to share projects and collaborate
 - Tools: Figma, Miro, Google Forms
 
-### 🌐 Portfolio Website
+🌐 Portfolio Website
 - Personal portfolio built and deployed using GitHub Pages & Firebase
 - Technologies: HTML, CSS, JavaScript, Firebase
 
-## 📫 Let's Connect
+📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/yourname)
 - 🌐 [Portfolio Website](https://your-portfolio.web.app)
@@ -65,10 +84,10 @@ GitHub Projects Overview"
 
 ---
 
-###Thanks for visiting!
-"""
+Thanks for visiting!
 
-### 👋 Hi, I’m @Chinonyedoris  
+
+  👋 Hi, I’m @Chinonyedoris  
 - 👀 I’m interested in web development, data science, and open-source contributions.  
 - 🌱 I’m currently learning React, Node.js, and machine learning.  
 - 💞️ I’m looking to collaborate on open-source projects and hackathons.  
