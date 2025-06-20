@@ -10,7 +10,7 @@ baseurl: ""                         # the subpath of your site, e.g. /blog
 author:
   name: "Chinonye Doris Aniagolu"
   email: "chinonyedorisaniagolu@gmail.com"
-  bio: "UX Researcher • AI Enthusiast • Data Analyst" Hi, I’m Chinonye. I design intuitive digital experiences and solve real-world problems using AI, UX, and data. Welcome to my portfolio."
+  bio: "UX Researcher • AI Enthusiast • Data Analyst. Hi, I’m Chinonye. I design intuitive digital experiences and solve real-world problems using AI, UX, and data. Welcome to my portfolio."
   avatar: "/assets/images/avatar.jpg"  # path to your profile image
 
 # Social media links
