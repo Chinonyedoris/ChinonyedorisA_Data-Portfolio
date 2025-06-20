@@ -33,9 +33,10 @@ nav:
 
 # Build settings
 markdown: kramdown
-theme:jekyll-theme-minimal
+theme: jekyll-theme-minimal
 title: Chinonyedoris homepage
-description: Bookmark this to keep an eye on my project updates!             
+description: Bookmark this to keep an eye on my project updates!
+plugins
   - jekyll-feed
   - jekyll-seo-tag
   # add other plugins as needed
