@@ -1,10 +1,42 @@
+Chinonye Aniagolu
+(UX Researcher • AI Enthusiast • Data Analyst)
+Hi, I’m Chinonye. I design intuitive digital experiences and solve real-world problems using AI, UX, and data. Welcome to my portfolio."
 
-# 🌟 Creative Portfolio – Data, Design & Innovation
+With a background in Geological Sciences and professional experience in aviation data and administration, I bring a unique lens to technology—merging logic, research, and design to solve global problems.
+
+🌟 PROJECT Portfolio – Data, Design & Innovation
+AI, UX/Product Design, and Data.
 
 Welcome to my digital portfolio showcasing key projects in data analysis, UX research, and AI integration. 
 I’m passionate about building human-centered solutions and using tech to solve real-world problems.
 
+Professional Bio": """
+I'm a passionate and creative Data Analyst and UX Researcher, deeply driven With experience across aviation analytics, UX design, and data annotation for AI, I strive to create meaningful digital solutions that improve lives. I'm a lifelong learner with a love for clean design, structured data, and 
+building community-centered platforms.
+
+Skills: Data Analysis · SQL · UX Design · Figma · Firebase · GitHub · Research · Creative Writing
+""",
+Short Tagline": """
+Data Analyst | UX Researcher & Product Designer | Data & Design
+""",
+GitHub Projects Overview": """
+- NAMA-Aviation-Data-Cleanup: Cleaned and validated aviation datasets; tools: Excel, SQL.
+- Email-Annotation-Workflow: Labeled emails for AI categorization; tools: Label Studio.
+- COVID19-Doc-Conversion-Project: Converted public health records from PDF to Word.
+- Creative-Hub-UX-Case-Study: UX Design project with wireframes, research, and prototype in Figma.
+""",
+    
 ## 🔧 Key Projects
+✅ Large Dataset Cleanup for NAMA (Aviation data)
+✅ AI-powered Email Filtering Annotation with TransPerfect
+✅ COVID-19 Medical Documentation Archiving
+✅ UX Design for Creative Hub App – a platform for creatives to share, collaborate, and grow
+✅ Firebase + GitHub Web Deployment
+✅ Personal Portfolio Website
+
+Each project has helped me blend my data, design, and product thinking to solve real-world challenges 🌍.
+
+👩‍💻 My tool stack: Figma, Firebase, GitHub, Excel, SQL, Notion, Python, Google Workspace, and more.
 
 ### ✈️ NAMA Data Cleanup & Validation
 - Cleaned and validated aviation data for Nigerian Airspace Management Agency
