@@ -36,7 +36,7 @@ markdown: kramdown
 theme: jekyll-theme-minimal
 title: Chinonyedoris homepage
 description: Bookmark this to keep an eye on my project updates!
-plugins
+plugins:
   - jekyll-feed
   - jekyll-seo-tag
   # add other plugins as needed
