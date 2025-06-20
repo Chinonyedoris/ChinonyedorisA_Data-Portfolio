@@ -25,18 +25,18 @@ crosoft Outlook.
  • Others: SEO Tools (Yoast, SEMrush), Tableau, Adobe Suite, CapCut
 
  # Trainings & Workshops
-# • Harvard University– Artificial Intelligence with Python — Coursework — Training — search al
+• Harvard University– Artificial Intelligence with Python — Coursework — Training — search al
 gorithms, knowledge representation, neural networks, and reinforcement learning using Python —
  Building intelligent systems and implementing AI concepts.
- # • AltSchool Africa– School of Data Data Analysis Program — Excel, SQL, Power BI, Python.
-#  • AWS Cloud Computing Bootcamp– CloudSec Network —Fundamentals of AWS.
-#  • She Leads Africa Bootcamp — Digital Marketing, Video Editing, and Content Creation — Brand
+• AltSchool Africa– School of Data Data Analysis Program — Excel, SQL, Power BI, Python.
+• AWS Cloud Computing Bootcamp– CloudSec Network —Fundamentals of AWS.
+• She Leads Africa Bootcamp — Digital Marketing, Video Editing, and Content Creation — Brand
  Growth.
-# • TechyJauntUI/UXDesignBootcamp—User-CenteredDesign, Wireframing, Prototyping (Figma)figjam.
-# • WHXWorld Health Expo (Training Attendee) — Workshops on global health innovation.
-# • Propel — Jobberman Soft-Skills Training —Professional communication, teamwork.
-# • HNG11 Internship Training Institute — Data Analyst Intern.
-# • ALX Virtual Assistant Training Program.
+• TechyJauntUI/UXDesignBootcamp—User-CenteredDesign, Wireframing, Prototyping (Figma)figjam.
+• WHXWorld Health Expo (Training Attendee) — Workshops on global health innovation.
+• Propel — Jobberman Soft-Skills Training —Professional communication, teamwork.
+• HNG11 Internship Training Institute — Data Analyst Intern.
+• ALX Virtual Assistant Training Program.
 
 # New Project Track Data Analysis
 # "Visualizing Nigeria’s GDP Journey (1993–2025): A Business Intelligence and Data Analytics Perspective"
