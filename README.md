@@ -16,7 +16,7 @@ url: "https://chinonyedoris.github.io"
 author:
   name: Chinonyedoris
 ###Welcome to my digital portfolio showcasing key projects in data analysis, UX research, and AI integration. 
-13|   bio: "UX Researcher • AI Enthusiast • Data Analyst. Hi, I’m Chinonye. I design intuitive digital experiences and solve real-world problems using AI, UX, and data. Welcome to my portfolio.
+"UX Researcher • AI Enthusiast • Data Analyst. Hi, I’m Chinonye. I design intuitive digital experiences and solve real-world problems using AI, UX, and data. Welcome to my portfolio.
 
 ###Professional Bio": """
 I'm a passionate and creative Data Analyst and UX Researcher, deeply driven With experience across aviation analytics, UX design, and data annotation for AI, I strive to create meaningful digital solutions that improve lives. I'm a lifelong learner with a love for clean design, structured data, and 
