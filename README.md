@@ -1,21 +1,20 @@
 # | Data Analyst• |UX Researcher | Developer|• AI Enthusiast 
   # Short Tagline |Database Management |Administrator | Aviator | UX Researcher & Product Designer | Data & Design
 
-    Hi, I’m Chinonye. Welcome to my portfolio."Highly driven in AI (Artificial Intelligence)with strong proficiency in machine learning, NLP(Natural Language Processing), deep learning,     and data-driven problem solving .I’m interested in web development, data science, and open-source contributions. I’m currently learning React, Node.js, and machine learning. I’m         looking to collaborate on open-source projects and hackathons. I love exploring new technologies! 
-    I’m passionate about applying AI to solve complex challenges in industries such as development and deployment of large Language models (LLMs), finance, healthcare, logistics, and        tech. With a continuous learning mindset and a deep understanding of data infrastructure, I aim to bridge the gap between raw data and actionable intelligence.
-    I design intuitive digital experiences and solve real-world problems using AI, UX, and data. Welcome to my digital portfolio showcasing key projects in data analysis, UX research,       and AI integration. With a background in Geological Sciences and professional experience in aviation data and administration, I bring a unique lens to technology—merging logic,          research, and design to solve global problems.
+    Hi, I’m Chinonye. Welcome to my portfolio."Highly driven in AI (Artificial Intelligence)with strong proficiency in machine learning,      NLP(Natural Language Processing), deep learning,     and data-driven problem solving .I’m interested in web development, data             science, and open-source contributions. I’m currently learning React, Node.js, and machine learning. I’m looking to collaborate on        open-source projects and hackathons. I love exploring new technologies! 
+    I’m passionate about applying AI to solve complex challenges in industries such as development and deployment of large Language           models (LLMs), finance, healthcare, logistics, and tech. With a continuous learning mindset and a deep understanding of data              infrastructure, I aim to bridge the gap between raw data and actionable intelligence.
+    I design intuitive digital experiences and solve real-world problems using AI, UX, and data. Welcome to my digital portfolio              showcasing key projects in data analysis, UX research, and AI integration. With a background in Geological Sciences and professional      experience in aviation data and administration, I bring a unique lens to technology—merging logic, research, and design to solve          global problems.
 
 # PROJECT Portfolio 
     Data, Design & Innovation
     AI, UX/Product Design, and Data."
 
 # Professional Bio":
-  Motivated and versatile Professional with a strong foundation in web development, data analysis, administration, database management, artificial intelligence and UI/UX design.           Passionate about building clean, user-focused applications and contributing to the open-source community. Adept at using modern frameworks, solving complex technical problems, and       collaborating across global teams. Currently advancing skills in React.js, Node.js, and Machine Learning. Open to Looking to collaborate on open-source projects, web apps, and AI        tools.
-  I'm a passionate and creative Data Analyst and UX Researcher, deeply driven With experience across aviation analytics, UX design, and data annotation for AI, I strive to create          meaningful digital solutions that improve lives. I'm a lifelong learner with a love for clean design, structured data, and 
-  building community-centered platforms.
+  Motivated and versatile Professional with a strong foundation in web development, data analysis, administration, database management,     artificial intelligence and UI/UX design. Passionate about building clean, user-focused applications and contributing to the open-        source community. Adept at using modern frameworks, solving complex technical problems, and collaborating across global teams.            Currently advancing skills in React.js, Node.js, and Machine Learning. Open to Looking to collaborate on open-source projects, web        apps, and AI tools.
+  I'm a passionate and creative Data Analyst and UX Researcher, deeply driven With experience across aviation analytics, UX design, and     data annotation for AI, I strive to create meaningful digital solutions that improve lives. I'm a lifelong learner with a love for        clean design, structured data, and building community-centered platforms.
 
 # Mission
-   As a passionate creative, researcher, and solutions-driven individual, my commitment to Africa lies in empowering lives through innovation, technology, and storytelling. I aim to        build digital platforms that foster youth expression, education, and entrepreneurship. I actively engage in writing, UX design, and data analysis to address systemic issues and offer    transformative ideas. Through continuous learning, collaboration, and community outreach, I intend to mentor, inspire, and uplift future African leaders while promoting values of        purpose, resilience, and integrity. My mission is to ignite change—spiritually, intellectually, and socially—across generations.
+   As a passionate creative, researcher, and solutions-driven individual, my commitment to Africa lies in empowering lives through innovation, technology, and storytelling. I aim to build digital platforms that foster youth expression, education, and entrepreneurship. I actively engage in writing, UX design, and data analysis to address systemic issues and offer    transformative ideas. Through continuous learning, collaboration, and community outreach, I intend to mentor, inspire, and uplift future African leaders while promoting values of purpose, resilience, and integrity. My mission is to ignite change—spiritually, intellectually, and socially—across generations.
    
 # Technical Skills
     • Languages & Frameworks: HTML, CSS, JavaScript, Python, SQL, React (learning), firebase,
@@ -43,10 +42,11 @@
 
 # New Project Track Data Analysis
 # "Visualizing Nigeria’s GDP Journey (1993–2025): A Business Intelligence and Data Analytics Perspective"
+# Nigerian Economic GDP Data Featuring 1993-2025; A Data Analysis Approach.
 
 # Project Introduction / Preamble
-  So, I decided to embark on a personal data analytical project to draw out deep insights from Nigeria’s Gross Domestic Product (GDP) trends. This project spans from 1993 to 2025, a       critical period post-independence reflecting Nigeria’s evolving economic framework, government reforms, and international positioning.
-  I will be imploring the use of Power BI and other advanced data analytical skills—including Excel, Python, and statistical methods—to carry out this research. The aim is not just to     analyze GDP growth and decline, but to understand:
+  So, I decided to embark on a personal data analytical project to draw out deep insights from Nigeria’s Gross Domestic Product (GDP)       trends. This project spans from 1993 to 2025, a critical period post-independence reflecting Nigeria’s evolving economic framework,       government reforms, and international positioning.
+  I will be imploring the use of Power BI and other advanced data analytical skills—including Excel, Python, and statistical methods—to     carry out this research. The aim is not just to analyze GDP growth and decline, but to understand:
  
    When and why the Nigerian economy grew significantly
 
@@ -65,9 +65,16 @@
    Correlation and inferential tools to tie macroeconomic events to outcomes
 
 # Invitation to Join the Journey
-    I invite you to join me on this exciting research and business intelligence journey into Nigeria’s GDP. Whether you are a data analyst, economist, policymaker, or simply curious         about Nigeria’s economic development—this project is for you.
+    I invite you to join me on this exciting research and business intelligence journey into Nigeria’s GDP. Whether you are a data            analyst, economist, policymaker, or simply curious about Nigeria’s economic development—this project is for you.
 
     Stay tuned as we uncover hidden insights, spot economic patterns, and bring data to life in the Nigerian context.
+
+# New Project 2
+# Research Proposal: Leveraging Data Analytics To Optimize Sustainability in Infrastructure
+# Data Analytics and the Future of the Built Environment.
+   Academic journal articles on predictive analytics, machine learning in infrastructure, and sustainable development strategies.
+   Short Summary for Application Form
+   This research explores the role of data analytics in optimizing sustainability in infrastructure projects. It examines how predictive     analytics and big data can enhance resource allocation, environmental impact assessments, and long-term project planning. The study       will analyze sustainability challenges in infrastructure, evaluate data-driven solutions, and develop a framework for integrating         analytics into sustainable project management. By combining literature reviews, case studies, and expert interviews, the research aims    to provide actionable insights for sustainable infrastructure development.
 
 # Open Source Contributions & Projects
     • Firebase Installation Integration with Node.js — Node.js, Firebase CLI, Firebase Hosting, Firebase
@@ -104,22 +111,19 @@
     Nigeria · RemoteNigeria · Remote
         >email filtering | Saturn Collection Project
  
-# HNG Tech Training Institute
+# HNG11 internship training 2024HNG11 internship training 2024
    Data Analyst intern
    Data Analyst intern
    HNG Tech · InternshipHNG Tech · Internship
    Jun 2024 - Jul 2024 · 2 mosJun 2024 to Jul 2024 · 2 mos
-    Nigeria · RemoteNigeria · Remote
-# HNG11 internship training 2024HNG11 internship training 2024
+   Nigeria · RemoteNigeria · Remote
 
-# Eauxwell Nigeria Limited
-Junior on-site Assistant|Front Desk officer 
-Junior on-site Assistant|Front Desk officer 
+
 # Eauxwell Nigeria Limited · InternshipEauxwell Nigeria Limited · Internship
-Jun 2019 - Nov 2019 · 6 mosJun 2019 to Nov 2019 · 6 mos
-Lagos, NigeriaLagos, Nigeria
-On-site Supervision 
-Product Sales(customer Support)On-site Supervision Product Sales(customer Support)
+    Junior on-site Assistant|Front Desk officer 
+    Jun 2019 - Nov 2019 · 6 mosJun 2019 to Nov 2019 · 6 mos
+    Lagos, NigeriaLagos, Nigeria
+    Product Sales(customer Support)On-site Supervision Product Sales(customer Support)
 
 # Education
 # Nnamdi Azikiwe University
@@ -135,7 +139,7 @@ Product Sales(customer Support)On-site Supervision Product Sales(customer Suppor
      Issued Jan 2025Issued Jan 2025
 
 # Skills:
-Data Analysis 
+. Data Analysis 
 · SQL 
 . HTML
 . CSS
@@ -147,7 +151,26 @@ Data Analysis
 · Research 
 · Creative Writing
 
- 
+# 📂 Featured Projects
+   . Nigerian Economic GDP Data Featuring 1993-2025; A Data Analysis Approach.
+   . A Written Essay on Socio-Technical Dynamics.(Nifsy Global ltd).
+   . Flood Risk Monitoring using Twitter Data.(A Research Journal).
+   . NLP + geospatial analysis to detect flood-prone areas in Nigeria.
+   . History of COVID-19 Medical Documentation Conversion.
+   . Automated conversion and formatting of 200+ public health documents.
+   . Email Filtering System for Workflow Optimization
+   . Data annotation for machine learning models in productivity tools.
+   . Creative Hub App UX Design
+   . User research + prototyping a digital space for creatives.
+   . Large Dataset Entry & Cleanup (NAMA)
+   . Aviation data validation and directory management.
+   . Voyage Tours Proposal Writing.
+   . A Research Writing done on Lifestyle of Lagos.
+   . A Research Proposal writing done on A Cultural Exchange Tourism Programme.
+   . Technical Report Track Data Analysis on The Titanic Passenger List.
+   . 
+   
+
 # GitHub Projects Overview"
 - NAMA-Aviation-Data-Cleanup: Cleaned and validated aviation datasets; tools: Excel, SQL.
 - Email-Annotation-Workflow: Labeled emails for AI categorization; tools: Label Studio.
@@ -184,41 +207,58 @@ Data Analysis
                   🔗 Live Site: [(https://github.com/Chinonyedoris/ChinonyedorisA_Data-Portfolio/)]
                   🌐 GitHub Repo: [(https://github.com/Chinonyedoris)]
 
-      # 🔍 About the Project
-          This is my personal portfolio website showcasing projects in Data Science, Machine Learning, Data Analysis, and Research Writing. The portfolio was designed to reflect both              technical skill and storytelling through data.
-          I created this Data Science Portfolio website as a centralized space to showcase all my data-related projects — from data analysis and research writing to machine learning and           UX case studies.
+   # 🔍 About the Project
+          This is my personal portfolio website showcasing projects in Data Science, Machine Learning, Data Analysis, and Research                  Writing. The portfolio was designed to reflect both technical skill and storytelling through data.
+          I created this Data Science Portfolio website as a centralized space to showcase all my data-related projects — from data                 analysis and research writing to machine learning and UX case studies.
 
-     # 🎯 Purpose:
-                This portfolio acts as a placeholder and project hub, allowing me to:
+  # 🎯 Purpose:
+         This portfolio acts as a placeholder and project hub, allowing me to:
 
-                Organize and display my growing list of real-world projects
+         Organize and display my growing list of real-world projects
 
-                Present my work in a structured and professional manner
+         Present my work in a structured and professional manner
 
-                Direct potential collaborators, recruiters, or mentors to a single access point
+          Direct potential collaborators, recruiters, or mentors to a single access point
   
-      # 🧰 Built With:
-                    HTML/CSS/JavaScript – clean and responsive UI
+   # 🧰 Built With:
+                   
+            HTML/CSS/JavaScript – clean and responsive UI
 
-                    Bootstrap/TailwindCSS – for mobile-friendly design
+            Bootstrap/TailwindCSS – for mobile-friendly design
 
-                    GitHub Pages – version control and public access
+            GitHub Pages – version control and public access
 
-      # 🎯 Goals of the Portfolio
-                    Showcase end-to-end data science and analysis workflows
+   # 🎯 Goals of the Portfolio
+            Showcase end-to-end data science and analysis workflows
 
-                    Highlight real-world impact and relevance
+            Highlight real-world impact and relevance
 
-                    Present projects in a digestible and visually engaging format
+            Present projects in a digestible and visually engaging format
 
-                    Act as a central hub for recruiters, collaborators, and clients
+            Act as a central hub for recruiters, collaborators, and clients
 
-       # 📦 Future Plans
-                   Add interactive dashboards using Streamlit
+  # 📦 Future Plans
+           Add interactive dashboards using Streamlit
 
-                   Integrate blog with technical tutorials and case studies
+           Integrate blog with technical tutorials and case studies
 
-                   Deploy with custom domain
+           Deploy with custom domain
+
+  # 📂 What It Includes:
+          Placeholder sections for each project
+
+          Links to GitHub repos and notebooks
+
+          Coming-soon areas for detailed write-ups and dashboards
+
+# 🛠 Upcoming:
+         Individual case study pages for each project
+
+         Blog integration for technical breakdowns
+
+        Contact form and resume download section
+
+This is a living space — evolving as I continue to grow and upload new work.
                    
    # 🚀 Project Launch: Successfully Deployed a Firebase-Hosted Web App with Node.js & React Integration (https://coder-896df.web.app/)
           ✅ Firebase Integration:
