@@ -1,5 +1,5 @@
 # | Data Analyst• |UX Researcher | Developer|• AI Enthusiast 
-  # Short Tagline |Database Management |Administrator | Aviator | UX Researcher & Product Designer | Data & Design
+# Short Tagline |Database Management |Administrator | Aviator | UX Researcher & Product Designer | Data & Design
 
     Hi, I’m Chinonye. Welcome to my portfolio."Highly driven in AI (Artificial Intelligence)with strong proficiency in machine learning,      NLP(Natural Language Processing), deep learning,     and data-driven problem solving .I’m interested in web development, data             science, and open-source contributions. I’m currently learning React, Node.js, and machine learning. I’m looking to collaborate on        open-source projects and hackathons. I love exploring new technologies! 
     I’m passionate about applying AI to solve complex challenges in industries such as development and deployment of large Language           models (LLMs), finance, healthcare, logistics, and tech. With a continuous learning mindset and a deep understanding of data              infrastructure, I aim to bridge the gap between raw data and actionable intelligence.
@@ -98,9 +98,8 @@
 
 # Work Experience
 
-   #  Nigerian Airspace Management Agency
-   # Administrative Support Associate/Flight Data Analyst
-   # Nigerian Airspace Management Agency · Full-timeNigerian Airspace Management Agency · Full-time
+# Nigerian Airspace Management Agency · Full-timeNigerian Airspace Management Agency · Full-time
+# Administrative Support Associate/Flight Data Analyst
      Jan 2021 - Present · 4 yrs 6 mosJan 2021 to Present · 4 yrs 6 mos
      Lagos, Nigeria · On-siteLagos, Nigeria · On-site
          >Flight information and statistical data AnalysisFlight information and statistical data Analysis.
