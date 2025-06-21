@@ -3,3 +3,10 @@ title: Chinonye Aniagolu
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
+/index.html
+/styles.css
+/scripts.js
+/assets/
+  - images/
+  - resume.pdf
+
