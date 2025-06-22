@@ -39,6 +39,12 @@
     • Propel — Jobberman Soft-Skills Training —Professional communication, teamwork.
     • HNG11 Internship Training Institute — Data Analyst Intern.
     • ALX Virtual Assistant Training Program.
+    
+# 🎓 Ongoing Learning
+
+Bootcamps: AWS Cloud Computing at CSN Network, UX at Techy Jaunt
+
+Weekly hands-on projects, EC2 instance provisioning, UX wireframes
 
 # New Project Track Data Analysis
 # "Visualizing Nigeria’s GDP Journey (1993–2025): A Business Intelligence and Data Analytics Perspective"
