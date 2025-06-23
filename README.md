@@ -46,6 +46,20 @@ Bootcamps: AWS Cloud Computing at CSN Network, UX at Techy Jaunt
 
 Weekly hands-on projects, EC2 instance provisioning, UX wireframes
 
+# Publications & Journals
+     . Flood Risk Monitoring Using Twitter Data, collecting Twitter Data For Social Media Analysis.
+     . An Overview of Global Social media Usage.
+     . ATA AFRICA MEET & GREET EVENT BUSINESS PROPOSAL PLANNING.
+     . CREATIVE PORTFOLIO ARCHIVE PRESENTATION MULTI FORMAT PORTFOLIO ARCHIVE FOR CONTENT CREATORS: UX RESEARCH & PRODUCT REFINEMENT.
+     . AN ARTICLE RESEARCH WRITING ON LIFESTYLE OF LAGOS.
+     . TRACK DATA ANALYSIS TECHNICAL REPORT ON TITATIC PASSENGER LIST.
+     . A CULTURAL EXCHANGE AND TOURISM PROGRAMME BUSINESS PROPOSAL WRITING.
+     . NIGERIAN ECONOMIC DATA 1993-2025.
+     . NAIRALAND AND NRC WEBSITES UX RESEARCH.
+     . A WRITTEN ESSAY ON SOCIAL TECHNICAL DYNAMICS.
+     . THE HISTORY OF COVID-19 RESEARCH DOCUMENT.
+     . RESEARCH & PROPOSAL PROJECT REPORT: LEVERAGIING DATA ANALYTICS TO OPTIMIZE SUSTAINABILITY IN INFRASTRUCTURE.
+     
 # New Project Track Data Analysis
 # "Visualizing Nigeria’s GDP Journey (1993–2025): A Business Intelligence and Data Analytics Perspective"
 # Nigerian Economic GDP Data Featuring 1993-2025; A Data Analysis Approach.
