@@ -34,6 +34,8 @@
     • AWS Cloud Computing Bootcamp– CloudSec Network —Fundamentals of AWS.
     • She Leads Africa Bootcamp — Digital Marketing, Video Editing, and Content Creation — Brand
       Growth.
+    . 2025 Global Africa Workforce Summit.
+    . The Mosart Academy of art Training.(Short-term 10.2 art Course Graduant).
     • TechyJauntUI/UXDesignBootcamp—User-CenteredDesign, Wireframing, Prototyping (Figma)figjam.
     • WHXWorld Health Expo (Training Attendee) — Workshops on global health innovation.
     • Propel — Jobberman Soft-Skills Training —Professional communication, teamwork.
@@ -99,6 +101,7 @@ Weekly hands-on projects, EC2 instance provisioning, UX wireframes
 # Open Source Contributions & Projects
     • Firebase Installation Integration with Node.js — Node.js, Firebase CLI, Firebase Hosting, Firebase
       Firestore, Firebase Auth, Git, VS Code.
+    . UX Presentation: A multi-format publishing platform Creative hub Product design Presentation.
     • UI/UX + Frontend Development — Co-designed the user interface and developed the frontend of a
       multi-format publishing platform using Figma, HTML, CSS, React,Node.js, JavaScript, and Firebase.
     • GitHub Collaborator– Fixed bugs, wrote README.md docs, and participated in open-source issue
@@ -114,6 +117,7 @@ Weekly hands-on projects, EC2 instance provisioning, UX wireframes
     • AI Career Essentials– ALX, 2024
     • Virtual Assistant Training– ALX, 2024
     • Customer Experience & Data Analytics– HP Life, 2024–2025
+    . The Mosart Academy of art Training (Short-term 10.2 Art Course) 2024
     > DataTrends Changing The Role of HR- UniATHENA, 2024
 
 # Work Experience
@@ -314,6 +318,12 @@ This is a living space — evolving as I continue to grow and upload new work.
              Node.js
 
             Git & GitHub
+
+# Amazon AMI EC2 Instance Deployment: Launched a Windows Server EC2 instance using Amazon’s AMI on a public subnet.
+
+     Security Configuration: Created a Security Group allowing RDP (port 3389) access only from my public IP, minimizing      exposure to unauthorized access.
+     
+    ✅As part of the CSN CloudSec Bootcamp Week 3 task, I successfully launched and configured a Windows Server 2025 EC2       instance on Amazon Web Services (AWS). The objective was to provision a secure, publicly accessible virtual server       instance and ensure controlled RDP (Remote Desktop Protocol) access.
 
 # 📘 Research Writing & Data Analysis
 # Project Title: Flood Risk Monitoring through Social Media: A Twitter-Based Analysis
