@@ -34,6 +34,7 @@
     • AWS Cloud Computing Bootcamp– CloudSec Network —Fundamentals of AWS.
     • She Leads Africa Bootcamp — Digital Marketing, Video Editing, and Content Creation — Brand
       Growth.
+    . 🗓️ Bootcamp: Data Analytics Track – Quantum Analytics June 2025 Cohort.
     . 2025 Global Africa Workforce Summit.
     . The Mosart Academy of art Training.(Short-term 10.2 art Course Graduant).
     • TechyJauntUI/UXDesignBootcamp—User-CenteredDesign, Wireframing, Prototyping (Figma)figjam.
@@ -61,7 +62,157 @@ Weekly hands-on projects, EC2 instance provisioning, UX wireframes
      . A WRITTEN ESSAY ON SOCIAL TECHNICAL DYNAMICS.
      . THE HISTORY OF COVID-19 RESEARCH DOCUMENT.
      . RESEARCH & PROPOSAL PROJECT REPORT: LEVERAGIING DATA ANALYTICS TO OPTIMIZE SUSTAINABILITY IN INFRASTRUCTURE.
-     
+
+# 💼 Total Sales Computation – Excel Project
+
+## 📌 Project Overview
+This project demonstrates how to compute **Total Sales** in an Excel dataset by applying fundamental Excel functions and relative referencing. It was completed as part of the Quantum Analytics June Cohort – Data Analyst Track.
+
+## 🎯 Goal
+To compute the **Total Sales** for each product entry using the formula: Total Sales = Sales Price × Quantity Sold
+
+## 🛠️ Tools & Technologies
+- Microsoft Excel  
+- Relative and Absolute Referencing  
+- Excel Formulas: `SUM`, `COUNT`, `COUNTA`, `COUNTBLANK`, `MIN`, `MAX`, `AVERAGE`  
+- Paste Special (Values, Formats, Formulas)  
+- Transpose Function
+
+## 🧮 Methodology
+1. **Dataset Columns**:  
+   - Product Name  
+   - State  
+   - Sales Price  
+   - Quantity Sold  
+
+2. **Data Operations**:  
+   - Used **relative referencing** to multiply `Sales Price` and `Quantity Sold` to compute `Total Sales`.  
+   - Applied the formula in the Total Sales column and used drag-fill to apply it to the rest of the rows.  
+   - Used `SUM` to calculate total revenue across all entries.  
+   - Used `MIN` and `MAX` to determine the range of values for unit price and total sales.  
+   - Applied `COUNT`, `COUNTA`, `COUNTBLANK` to determine data structure and completeness.
+
+3. **Formatting & Cleaning**:  
+   - Applied **Paste Special** to isolate formulas, values, and formats.  
+   - Used **Transpose** to restructure data as needed.
+
+## 📈 Key Outputs
+- ✅ Computed total sales for each row
+- ✅ Aggregated revenue and sales statistics
+- ✅ Identified min/max pricing and volume insights
+- ✅ Cleaned and formatted dataset for readability
+
+## 📚 Skills Demonstrated
+- Spreadsheet computation and logic building  
+- Data cleaning and structuring  
+- Analytical thinking using Excel tools  
+- Understanding of referencing and automation in formulas
+
+# 📈 Excel Data Analysis: Sales Report Using Basic Functions
+
+ ## 🎯 Objective:
+
+- To analyze a dataset containing Unit Price and Sales Price for different products (Product A and B) using Excel’s      basic statistical and referencing functions. The goal was to compute:
+
+- Total & Average Unit and Sales Prices
+
+- Count of Columns & Rows
+
+- Maximum Unit Price
+
+- Minimum Sales Price for Products A and B
+
+# 🧰 Excel Functions Used:
+
+## Function	Purpose
+
+=SUM(range)	Calculated total unit prices and total sales prices
+=AVERAGE(range)	Found the average unit price and average sales price
+=COUNT(range)	Counted all numeric (filled) entries in a column
+=COUNTA(range)	Counted all non-blank cells, including text
+=COUNTBLANK(range)	Identified blank/missing data for cleaning
+=COLUMNS(range)	Determined number of variables/fields
+=ROWS(range)	Counted total records/data entries
+=MAX(range)	Found the highest unit price
+=MIN(range)	Found the lowest sales price of each product
+
+# 🧪 Problem Solved:
+
+## Using these formulas:
+
+✅ Total Unit Price → =SUM(Unit_Price_Column)
+
+✅ Total Sales Price → =SUM(Sales_Price_Column)
+
+✅ Average Unit Price → =AVERAGE(Unit_Price_Column)
+
+✅ Average Sales Price → =AVERAGE(Sales_Price_Column)
+
+✅ Number of Columns → =COLUMNS(Table_Range)
+
+✅ Number of Rows → =ROWS(Table_Range)
+
+✅ Maximum Unit Price → =MAX(Unit_Price_Column)
+
+✅ Minimum Sales Price (Product A & B) →
+
+## For Product A: =MIN(IF(Product_Column="A", Sales_Price_Column))
+
+## For Product B: =MIN(IF(Product_Column="B", Sales_Price_Column)) (as an array formula or with FILTER function in Excel 365)
+
+## 🔍 Insights Gained:
+
+Identified pricing patterns across products
+
+Detected missing values using COUNTBLANK
+
+Practiced conditional logic (filtering by product)
+
+Strengthened understanding of Excel's statistical tools for Business Analytics.
+
+# 📊 Excel Data Analysis: Revenue Insights using Basic Functions
+## Exploratory Revenue Data Analysis using Excel – Quantum Analytics 
+
+Using absolute referencing, I successfully computed Net Salary for various employee IDs based on constant deductions across rows.
+Excel functions and data cleaning techniques. The session was centered around understanding and applying Excel’s in-built formulas for data summarization and structure analysis.
+
+## 🔧 Tools Used:
+
+Microsoft Excel
+
+Sample Revenue Dataset (fictitious organizational data)
+
+## 🧠 Key Excel Functions & Outcomes:
+
+Task: Excel Function Used	Purpose	Outcome
+
+Identify total columns (variables)	=COLUMNS(range)	Know number of features/data points	Returned the count of columns
+Count total data entries	=ROWS(range)	Understand dataset size	Returned the number of rows
+Find minimum revenue	=MIN(range)	Identify lowest revenue	Displayed lowest revenue value
+Find maximum revenue	=MAX(range)	Identify peak revenue	Displayed highest revenue value
+Calculate total revenue	=SUM(range)	Add up total income	Returned the full sum of revenue
+Count revenue entries	=COUNT(range)	Count valid revenue data cells	Counted all filled numeric cells
+Determine average revenue	=AVERAGE(range)	Compute mean revenue	Showed overall average revenue
+
+# ✅ Excel Conditional Statements – Practical Application  | Quantum Analytics
+  
+  I worked on a project that focused on applying conditional logic using Excel’s built-in functions.
+
+🔧 Tasks Completed:
+
+Used IF, AND, and OR functions to categorize data based on multiple conditions.
+
+Applied nested IF statements to classify employees based on salary thresholds (e.g., "High", "Medium", or "Low").
+
+Created automated decision rules to flag employees eligible for bonuses based on performance scores and tenure.
+
+Used Conditional Formatting in combination with formulas to visually highlight rows meeting specific criteria (e.g., underperformers or top earners).
+
+Ensured data accuracy by validating the logic with sample datasets.
+
+
+📊 Key Outcome: Transformed raw data into structured, insight-driven outputs that allowed quick decision-making. These exercises deepened my understanding of how logical functions drive data filtering, analysis, and reporting in business environments.
+
 # New Project Track Data Analysis
 # "Visualizing Nigeria’s GDP Journey (1993–2025): A Business Intelligence and Data Analytics Perspective"
 # Nigerian Economic GDP Data Featuring 1993-2025; A Data Analysis Approach.
@@ -395,6 +546,11 @@ Thanks for visiting!
 
 
   👋 Hi, I’m @Chinonyedoris  
+  
+## 🔗 Author
+**Chinonye Doris Aniagolu**  
+*Data Analyst | AI Enthusiast*  
+[LinkedIn](https://www.linkedin.com/in/chinonyedoris) | [GitHub](https://github.com/Chinonyedoris)
 - 👀 I’m interested in web development, data science, and open-source contributions.  
 - 🌱 I’m currently learning React, Node.js, and machine learning.  
 - 💞️ I’m looking to collaborate on open-source projects and hackathons.  
