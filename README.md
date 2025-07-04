@@ -19,7 +19,7 @@
 # Technical Skills
     • Languages & Frameworks: HTML, CSS, JavaScript, Python, SQL, React (learning), firebase,
       Node.js (learning)
-    • Tools & Libraries: Git, GitHub, Figma, Pandas, NumPy, Canva, CapCut, Power BI
+    • Tools & Libraries: Git, GitHub, Figma, Pandas, NumPy, Canva, CapCut, Power BI, Video Editing & 3D Animation
     • Databases & Data Tools: Excel (Advanced), SQL, Google Sheets, Power BI
     • Collaboration & Project Management: Trello, Notion, Slack, Zoom, Google Workspace, Mi
       crosoft Outlook.
@@ -62,6 +62,87 @@ Weekly hands-on projects, EC2 instance provisioning, UX wireframes
      . A WRITTEN ESSAY ON SOCIAL TECHNICAL DYNAMICS.
      . THE HISTORY OF COVID-19 RESEARCH DOCUMENT.
      . RESEARCH & PROPOSAL PROJECT REPORT: LEVERAGIING DATA ANALYTICS TO OPTIMIZE SUSTAINABILITY IN INFRASTRUCTURE.
+
+# ✅ PROJECT TITLE: (OneLink)A Unified Portfolio & Publishing Platform for Creators
+
+## 📘 PROJECT DESCRIPTION:
+OneLink is a modern, user-centric digital platform that enables creators to combine their portfolio, publishing work, and digital presence under one single profile. The product emerged from identifying pain points creatives face in managing content, building an audience, and growing visibility online.
+
+It allows users to upload unlimited content, publish blog-like articles, gain followers, and track engagement analytics — all in one place. With a smooth, micro-interactive UI and responsive design, OneLink offers a seamless experience across mobile, tablet, and desktop devices.
+
+The project was developed during the TechyJaunt UI/UX Designer Bootcamp, focused on building end-to-end product design skills, from user research to interactive prototyping.
+
+### 🎨 STYLE GUIDE: OneLink Design System
+# 🔵 Color Palette:
+Name	Use Case	HEX Code	Example
+Primary Blue	Buttons, CTAs, Highlights	#3A8DFF	Follow Button
+Light Blue	Backgrounds, Hover States	#E6F0FF	Card Hover
+White	Main background	#FFFFFF	Page BG
+Dark Grey	Headings, Text	#2C2C2C	Page Titles
+Medium Grey	Subtext, Icons	#6E6E6E	Descriptions
+Success Green	Confirmation/Success	#1DB954	Post Published
+Error Red	Errors, Alerts	#FF4C4C	Invalid Inputs
+
+## ✒️ Typography:
+Element	Font	Weight	Size
+Heading 1	Poppins	Bold	32px
+Heading 2	Poppins	Semi-Bold	24px
+Body Text	Inter	Regular	16px
+Caption/Hint	Inter	Light	12px
+
+## 🧱 Components & States:
+# ✅ Buttons:
+Primary Button: Blue BG, White Text, Rounded (8px)
+
+Secondary Button: White BG, Blue Border, Blue Text
+
+Disabled: Grey Text & Border, Light Grey Background
+
+# 🪪 Cards:
+Rounded corners (12px)
+
+Drop shadow (rgba(0, 0, 0, 0.08) at 4px)
+
+Includes: title, subtitle, image, action icons
+
+# 🏷️ Tags:
+Soft background color
+
+Rounded Pill Shape
+
+Small font size (12px), e.g. #UI/UX, #Design, #Content
+
+# 🔁 States & Micro-Interactions:
+Hover States: Slight lift (transform: scale(1.02)), soft shadow
+
+Follow Button: Changes to "Following" with smooth slide transition
+
+Upload Progress Bar: Animated loader with success checkmark
+
+# 🛠️ PRACTICAL GUIDE FOR USING STYLE GUIDE:
+🔹 1. Consistency is Key
+Use the defined color codes strictly — e.g., don’t mix unapproved blues or greys.
+
+🔹 2. Spacing Rules
+8pt Grid System
+
+Cards: Padding 16px
+
+Sections: Margins 32px between major blocks
+
+🔹 3. Accessibility Tips
+Ensure contrast ratios (Blue on White = pass)
+
+Text minimum size = 16px
+
+Avoid full red for errors without icon cues
+
+🔹 4. Mobile Adaptation
+Collapse nav into hamburger
+
+Cards become vertical stacks
+
+CTA buttons stretch full width
 
 # 💼 Total Sales Computation – Excel Project
 
