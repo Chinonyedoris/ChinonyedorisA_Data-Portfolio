@@ -144,6 +144,25 @@ Cards become vertical stacks
 
 CTA buttons stretch full width
 
+## Article Writing UX Design Project: ✨ Designing Connection: My Journey Creating a Multi-Format Content Sharing App
+
+By [Chinonye Doris Aniagolu] | UI/UX Designer | Techy Jaunt Cohort 6 Bootcamp
+
+### A well-written storytelling-style Medium case study post(https://medium.com/@chinonyedorisaniagolu/case-study-2a17e953a05c)
+
+## 🚀 Portfolio Deployment Complete! 🌐
+I'm excited to share that I have successfully deployed my AWS Bootcamp Deliverables in a live, organized portfolio website hosted on GitHub.
+🔗 Visit Portfolio(https://chinonyedoris.github.io/AWS-Bootcamp-Submission-Portfolio-ChinonyeAniagolu/)
+
+### 💼 Project Highlights:
+✅ Compiled and documented all weekly tasks in a clear, structured format
+✅ Configured a custom GitHub repository for deployment
+✅ Deployed using GitHub Pages with working links, screenshots, and walkthroughs
+✅ Included security and provisioning tasks (like EC2 setup, RDP, IAM, etc.)
+
+📌 This was a one-time, all-in-one project portfolio setup as required by the AWS Cloud Bootcamp—and I'm glad to have completed it successfully.
+
+
 # 💼 Total Sales Computation – Excel Project
 
 ## 📌 Project Overview
@@ -550,12 +569,40 @@ This is a living space — evolving as I continue to grow and upload new work.
              Node.js
 
             Git & GitHub
+            
+## 🚀 CloudSec Network Bootcamp – AWS Identity Center Setup ✅
+
+Excited to share another milestone in my AWS Cloud Computing journey!
+
+As part of Week 2 of the CloudSec Network Bootcamp, I successfully configured AWS IAM Identity Center (formerly AWS SSO):
+
+🔹 Set up a new user account
+🔹 Assigned permission sets using SecurityAudit policies
+🔹 Tested and submitted all deliverables via screenshot validation
+
+This hands-on task deepened my understanding of:
+🔐 Identity and access management (IAM)
+🛡️ Security policies and permission sets
+⚙️ Administrative cloud configurations
 
 # Amazon AMI EC2 Instance Deployment: Launched a Windows Server EC2 instance using Amazon’s AMI on a public subnet.
 
      Security Configuration: Created a Security Group allowing RDP (port 3389) access only from my public IP, minimizing      exposure to unauthorized access.
      
     ✅As part of the CSN CloudSec Bootcamp Week 3 task, I successfully launched and configured a Windows Server 2025 EC2       instance on Amazon Web Services (AWS). The objective was to provision a secure, publicly accessible virtual server       instance and ensure controlled RDP (Remote Desktop Protocol) access.
+
+## ✅ AWS Bootcamp – Week 4: VPC & Subnet Configuration Achieved!
+
+Excited to announce I successfully completed Week 4 of the CloudSec Network AWS Bootcamp, where I worked on simulating a multi-VPC architecture 🎯
+
+🚀 Key Milestones:
+🔹 Created two separate VPCs (VPC-A: 10.10.0.0/16 & VPC-B: 10.20.0.0/16)
+🔹 Configured public & private subnets in both VPCs
+🔹 Established VPC Peering between the two environments
+🔹 Updated route tables to enable traffic flow
+🔹 Captured console screenshots for validation and documentation
+
+This hands-on experience strengthened my grasp of AWS Networking, Subnetting, and Cloud Infrastructure security. I'm one step closer to mastering AWS architecture! 🌐🔥
 
 # 📘 Research Writing & Data Analysis
 # Project Title: Flood Risk Monitoring through Social Media: A Twitter-Based Analysis
