@@ -63,7 +63,7 @@ Weekly hands-on projects, EC2 instance provisioning, UX wireframes
      . THE HISTORY OF COVID-19 RESEARCH DOCUMENT.
      . RESEARCH & PROPOSAL PROJECT REPORT: LEVERAGIING DATA ANALYTICS TO OPTIMIZE SUSTAINABILITY IN INFRASTRUCTURE.
 
-# AWS Bootcamp Week 6 – Metabase Deployment with ECS & RDS
+# AWS Bootcamp Week 6 Project– Metabase Deployment with ECS & RDS
 
 This repository documents my Week 6 project for the CloudSec Network AWS Bootcamp, where I successfully deployed **Metabase** using **Amazon ECS (Fargate)** and connected it to a **PostgreSQL RDS** database.
 
@@ -132,6 +132,79 @@ This repository documents my Week 6 project for the CloudSec Network AWS Bootcam
 **Chinonye Doris Aniagolu**  
 💼 UI/UX | Cloud | Data | DevOps  
 🔗 [Portfolio](https://chinonyedoris.github.io)
+
+# Project: WordPress in the Cloud with ECS and RDS (AWS Bootcamp Week 6 Training)
+
+🚀 **Project Summary**  
+As part of the AWS Cloud Computing Bootcamp (Week 6),deployed a scalable WordPress application using **Amazon ECS (Elastic Container Service)** and **Amazon RDS (Relational Database Service)**.
+
+---
+
+## 📦 Architecture Overview
+
+- **Amazon ECS (Fargate)** – Containerized deployment of WordPress
+- **Amazon RDS (MySQL)** – Managed database backend
+- **Elastic Load Balancer** – Traffic routing and health checks
+- **IAM Role** – Secure access to services
+- **Security Groups** – Port restrictions for RDS and ECS containers
+- **VPC Subnets** – Private for DB, public for ECS tasks and ALB
+
+---
+
+## ⚙️ Tech Stack
+
+- **WordPress (Dockerized)**
+- **MySQL (RDS)**
+- **ECS (Fargate)**
+- **ECR (for storing the WordPress image)**
+- **ALB (Application Load Balancer)**
+
+---
+
+## 🌐 Deployment Instructions
+
+1. 🐳 **Dockerized WordPress Image**
+   - Pulled from Docker Hub or custom-built
+   - Pushed to Amazon ECR
+
+2. 🔐 **Created RDS MySQL Instance**
+   - Used default DB name: `wordpress`
+   - Opened port `3306` to ECS via security group
+
+3. 📄 **Task Definition**
+   - Container port: `80`
+   - Environment variables:
+     - `WORDPRESS_DB_HOST=<RDS_Endpoint>`
+     - `WORDPRESS_DB_USER=<DB_Username>`
+     - `WORDPRESS_DB_PASSWORD=<DB_Password>`
+     - `WORDPRESS_DB_NAME=wordpress`
+
+4. 📦 **ECS Service Setup**
+   - Fargate launch type
+   - Integrated with ALB
+   - Auto-scaling configured
+
+---
+
+## 🖼️ Screenshots
+
+- ✅ ECS Task Running  
+- ✅ RDS DB Endpoint  
+- ✅ ALB Health Check Passing  
+- ✅ WordPress Admin Setup Page
+
+---
+
+## 🔗 Live Demo
+
+---
+
+## 📝 Author
+
+**Chinonye Doris Aniagolu**  
+[GitHub](https://github.com/Chinonyedoris) | [LinkedIn](https://linkedin.com/in/chinonyedoris-aniagolu-250603225)
+
+---
 
 # ✅ PROJECT TITLE: (OneLink)A Unified Portfolio & Publishing Platform for Creators
 
