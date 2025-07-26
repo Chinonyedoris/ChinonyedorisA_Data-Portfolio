@@ -63,6 +63,76 @@ Weekly hands-on projects, EC2 instance provisioning, UX wireframes
      . THE HISTORY OF COVID-19 RESEARCH DOCUMENT.
      . RESEARCH & PROPOSAL PROJECT REPORT: LEVERAGIING DATA ANALYTICS TO OPTIMIZE SUSTAINABILITY IN INFRASTRUCTURE.
 
+# AWS Bootcamp Week 6 – Metabase Deployment with ECS & RDS
+
+This repository documents my Week 6 project for the CloudSec Network AWS Bootcamp, where I successfully deployed **Metabase** using **Amazon ECS (Fargate)** and connected it to a **PostgreSQL RDS** database.
+
+---
+
+## 🚀 Project Overview
+
+- **Objective:** Deploy Metabase container on AWS ECS with Fargate, and connect it to a PostgreSQL RDS instance.
+- **Goal:** Demonstrate ECS + RDS communication, secure networking setup, and functional data visualization using Metabase.
+
+---
+
+## 🧱 Tech Stack
+
+- **Amazon ECS (Fargate)**
+- **Amazon RDS (PostgreSQL)**
+- **Docker**
+- **CloudWatch**
+- **IAM Roles**
+- **Security Groups / VPC**
+
+---
+
+## 🔧 Setup Steps
+
+### 1. Create PostgreSQL on RDS
+- Engine: PostgreSQL
+- Port: `5432`
+- Public Access: No
+- Security Group: Accepts inbound traffic from ECS task
+
+### 2. Create ECS Task Definition
+- Image: `metabase/metabase`
+- Port Mappings: `3000`
+- Environment Variables:
+  - `MB_DB_TYPE=postgres`
+  - `MB_DB_DBNAME=[your-db-name]`
+  - `MB_DB_PORT=5432`
+  - `MB_DB_USER=[your-username]`
+  - `MB_DB_PASS=[your-password]`
+  - `MB_DB_HOST=[your-RDS-endpoint]`
+
+### 3. Configure Fargate Service
+- Launch Type: Fargate
+- Cluster: ECS Cluster
+- Security Group: Allow `3000` inbound from your IP or Load Balancer
+
+### 4. Verify Deployment
+- ECS logs confirm container is running
+- Metabase accessible at: `http://<PUBLIC-IP>:3000`
+- Successful connection to RDS database
+
+---
+
+## 📸 Screenshots
+
+- ECS Task & Service Running
+- Security Group Inbound Rules (Port 3000 & 5432)
+- RDS Instance Running
+- Metabase Web UI (Login Screen)
+
+---
+
+## 📍 Author
+
+**Chinonye Doris Aniagolu**  
+💼 UI/UX | Cloud | Data | DevOps  
+🔗 [Portfolio](https://chinonyedoris.github.io)
+
 # ✅ PROJECT TITLE: (OneLink)A Unified Portfolio & Publishing Platform for Creators
 
 ## 📘 PROJECT DESCRIPTION:
